@@ -1,0 +1,60 @@
+#+TITLE: First Entry
+#+author:    Harofax
+#+email:     daniel.kh555@gmail.com
+#+DATE: <2021-03-05 Fri>
+
+This is the first entry of my so called Future-Journal. Hopefully the first of
+many.
+
+* Introduction
+I'm sure what I want to achieve with this will get more concrete as time goes
+one, as well as change direction as I change as a person.
+
+I definitely have an internal conflict of whether to be overly explicit in the
+references to the contemporary, the slang of the now, or to just use it and have
+it be part of the journal. I will probably meander back and forth on what I
+decide to do.
+
+This first entry is a bit like a disclaimer I suppose, setting the path for the
+future of the journal.
+
+I've always enjoyed the idea of a journal. I have exclusively been writing them
+for hand on paper up til now, but obviously that will not last. At least that's
+how it feels right now. Paper decays, gets washed away by time. Information
+feels both more permanent, yet more fickle. As long as the prerequisites for
+data exist, it will remain. But if one of those foundational pillars get
+removed, it instantly disappears. Hopefully we humans will not royally mess this
+up and electricity/hard-drives will remain.
+
+I will also most likely write things I later want to delete, things I want to
+amend, etc. I will try to fight this urge, partly by not going through with
+deletions, but also by writing things within the context of a public platform.
+
+* Some context to my tools
+** Emacs and GNU philosophy
+I'm writing this in a distribution of Emacs called Doom Emacs. The format I'm
+writing it in is called Org-Mode. It should be parsable enough in "cleartext",
+so I'm not too worried about readability. Emacs is a text-editor, following a
+quite interesting ideology of freedom through software. I'm by no means an
+expert, but I do resonate with their principles. Software is such an ingrained
+part of our lives, it's in every part of our day-to-day operations. Banking,
+groceries, commodities, information, learning. By having software be controlled
+by "too-big-to-fail" entities, that harvest any piece of info they can, we give
+up a large part of our lives.
+
+#+begin_quote
+All of this is achieved with strictly plain text files, the most portable and
+future-proof file format. Org runs in Emacs. Emacs is one of the most widely
+ported programs, so that Org mode is available on every major platform.
+#+end_quote
+
+** Plain Text and Org-Mode
+Org-Mode comes with many benefits, most of which I'm probably not even aware
+of, but the one that stands out the most to me is the fact that the plain text
+itself is the formatting. It can export to many formats, but the editing and
+previewing is the plain-text document you see before you. Plain text is the most
+future-proof of any established convention. Even if Org-Mode is long gone when
+you read this, you'll be able to parse this as if it was just plain old text. No
+specialized software required, no encoded data. I might include the Org-Mode
+manual to make navigating this easier, but honestly I don't think it's necessary
+really.
